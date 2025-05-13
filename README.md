@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a **Food image recognition and volume calculation Project**
 
-- 🌱 I’m currently learning **Data Science and Embedded Systems**
+- 🌱 I’m currently learning **JAVA Full Stack Development**
 
 - 📫 How to reach me **varun.raghav2403@gmail.com**
 
